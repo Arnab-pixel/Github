@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[Linkedin](www.linkedin.com/in/arnab-chaudhuri-229175292)
-[Github](https://github.com/Arnab-pixel/Github)
+[Linkedin](www.linkedin.com/in/)
+[Github](https://github.com/)
 
 ### Languages and Tools:
 
