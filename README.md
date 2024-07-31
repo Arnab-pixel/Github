@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[Linkedin](https://www.linkedin.com/in/arnab-chaudhuri-229175292/)
+<img align="left" alt="Linkedin" width="26px" src="http://www.w3.org/2000/svg" style="padding-right:10px;" />[Linkedin](https://www.linkedin.com/in/arnab-chaudhuri-229175292/)
 [Github](https://github.com/Arnab-pixel/Github/)
 
 ### Languages and Tools:
