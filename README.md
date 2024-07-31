@@ -10,9 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />] (https://www.linkedin.com/in/arnab-chaudhuri-229175292/)
-[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>] (https://github.com/Arnab-pixel/Github/)
+[<img align="left" alt="Linkedin" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/arnab-chaudhuri-229175292/)
+[<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>](https://github.com/Arnab-pixel/Github/)
 
+<br/>
 
 ### Languages and Tools:
 
